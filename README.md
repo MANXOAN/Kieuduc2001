@@ -39,8 +39,11 @@
 <br>
 
 <p>
-<img align="left" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=dracula&fire=FF801F" alt="Streak stats">
-<img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc-mll&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide=C,C++" alt="Top languages">
+<p>
+  <img align="left" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANXOAN&theme=dracula&fire=FF801F" alt="Streak stats">
+  <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANXOAN&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide=" alt="Top languages">
+</p>
+
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
